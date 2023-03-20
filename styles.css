@@ -1,0 +1,50 @@
+body {
+    padding-top: 65px;
+    font-family: 'Roboto';
+}
+
+.info {
+    background-color: #376ca5;
+    padding-top: 30px;
+}
+
+/* Testimonios */
+.testimonial-card .card-up {
+    height: 100px;
+    overflow: hidden;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    margin-bottom: 70px;
+}
+
+.blue-gradient {
+    background: linear-gradient(40deg, #020024, #376ca5);
+}
+
+.testimonial-card .avatar {
+    width: 120px;
+    margin-top: -180px;
+    overflow: hidden;
+    border: 5px solid #fff;
+    border-radius: 50%;
+}
+
+.div-icons {
+    width: 120px; 
+    display: inline-flex;
+}
+
+.div-image-main {
+    width: 240px; 
+    display: inline-flex;
+}
+
+/* Color de fondo de las barras */
+.background-custom {
+    background-color: #376ca5;
+    padding: 15px;
+}
+
+.background-button {
+    background: #7ecdd5;
+}
